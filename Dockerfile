@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/etcd:3.3.10
+FROM gcr.io/vishnuk-cloud/tf-serving:1.9-gpu-minimal
