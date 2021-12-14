@@ -1,1 +1,1 @@
-FROM gcr.io/vishnuk-cloud/tf-serving-client@sha256:869467cd5d22c14a024493327e323c69887f71476790a0e5762f2884b8e5773a
+FROM gcr.io/vishnuk-cloud/tf-serving-client
