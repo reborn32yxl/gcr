@@ -1,1 +1,1 @@
-FROM gcr.io/vishnuk-cloud/tf-serving-client
+FROM k8s.gcr.io/etcd:3.3.10
